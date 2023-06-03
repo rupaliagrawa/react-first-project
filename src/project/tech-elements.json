@@ -1,0 +1,57 @@
+[
+    {
+        "A1heading":"Robot injected in the skull spreads its tentacles to monitor the brain",
+        "A2para":"A soft robot inserted through a hole in the skull can deploy six sensor-filled legs on the surface of the brain to monitor electrical activity. The design has been tested in miniature pigs and could someday help people who experience epileptic seizures",
+        "A3by":"By Jeremy Hsu",
+        "A4para1":"A soft robot inserted through a tiny hole in the skull can deploy six sensor-filled legs on the surface of the brain. A version of this soft robot has been successfully tested in a miniature pig and could be scaled up for human testing in the future.",
+        "A5para2":"The concept offers a less invasive approach for placing electrodes on the brain’s surface compared with the traditional method, in which surgeons cut a hole in the skull the size of the fully extended device. If it proves safe and effective in humans, it could eventually help monitor and even treat people who experience epileptic seizures or other neurological disorders.      “There’s actually a really large surface area that you can reach without doing a large craniotomy,” says Stéphanie Lacour at the Swiss Federal Institute of Technology in Lausanne.",
+        "A6img":"https://images.newscientist.com/wp-content/uploads/2023/05/10173849/SEI_155386466.jpg?"
+        ,"A7footer":"technology/20 May 2023"
+    ,
+    
+        "B1heading":"What is the AI alignment problem and how can it be solved?",
+        "B2para":"Artificial intelligence systems will do what you ask but not necessarily what you meant. The challenge is to make sure they act in line with human’s complex, nuanced values",
+        "B3by":"By Edd Gent",
+        "B4para1":"WHAT do paper clips have to do with the end of the world? More than you might think, if you ask researchers trying to make sure that artificial intelligence acts in our interests.",
+        "B5para2":"This goes back to 2003, when Nick Bostrom, a philosopher at the University of Oxford, posed a thought experiment. Imagine a superintelligent AI has been set the goal of producing as many paper clips as possible. Bostrom suggested it could quickly decide that killing all humans was pivotal to its mission, both because they might switch it off and because they are full of atoms that could be converted into more paper clips.",
+        "B6para3":"The scenario is absurd, of course, but illustrates a troubling problem: AIs don’t “think” like us and, if we aren’t extremely careful about spelling out what we want them to do, they can behave in unexpected and harmful ways. “The system will optimise what you actually specified, but not what you intended,” says Brian Christian, author of The Alignment Problem and a visiting scholar at the University of California, Berkeley.",
+        "B7img":"https://images.newscientist.com/wp-content/uploads/2023/05/09122707/SEI_154688016.jpg?"
+        ,"B8footer":"technology/20 May 2023"
+    ,
+    
+        "C1heading":" The Power of Solar: 35% of US Manufacturing Could Be Powered by Rooftop Solar Panels",
+        "C2img":"https://scitechdaily.com/images/Solar-Panels-in-Grass-1536x1024.jpg?ezimgfmt=ng:webp/ngcb2",
+        "C3para":"Solar panels installed on the roofs of industrial buildings have the potential to satisfy the entire electricity needs of up to 35% of American manufacturers. A recent study published in the journal Environmental Research: Sustainability and Infrastructure by IOP Publishing explores the viability of fulfilling these power requirements through on-site solar panel installations across various regions and manufacturing sectors in the United States.",
+        "C4para1":"Conducted by researchers from Northeastern University, the study utilizes data from the US Department of Energy Manufacturing Energy Consumption Survey to assess the potential electricity production of rooftop solar systems in comparison to the electricity demand per unit of floor space for the average manufacturing facility. The findings reveal that, depending on the season, rooftop solar installations could fully meet the electricity needs of 5-35% of American manufacturing industries, with the furniture, textile, and apparel sectors standing to gain the most.",
+        "C5para2":"Globally, the industrial sector represents a large contributor to energy usage, and associated greenhouse gas and carbon emissions. As such, manufacturing has become an important target for global decarbonization efforts, with many companies switching to lower-carbon energy sources. The new study shows that rooftop solar panels could now be a feasible option for many manufacturing units due to their large, flat rooftops alongside falling prices, improved efficiencies, and flexibility in installation. Seasonally, manufacturing companies across nearly 40% of US locations could fulfill their electricity needs in the spring and summertime with rooftop solar arrays."
+        ,"C6footer":"technology/20 May 2023"
+    
+    ,
+    
+        "D1heading":"Surprising Results – What Happens When Robots Lie?",
+        "D2img":"https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-1536x1152.jpg?ezimgfmt=ng:webp/ngcb2",
+        "D3para":"Consider the following scenario: A young child poses a question to a chatbot or voice assistant, asking if Santa Claus is real. Given that different families have varying preferences, with some opting for a falsehood over the truth, how should the AI respond in this situation?     The area of robot deception remains largely unexplored and, at present, there are more questions than solutions. One of the key questions is, if humans become aware that a robotic system has lied to them, how can trust in such systems be regained?",
+        "D4para1":"Two student researchers at Georgia Tech are finding answers. Kantwon Rogers, a Ph.D. student in the College of Computing, and Reiden Webber, a second-year computer science undergraduate, designed a driving simulation to investigate how intentional robot deception affects trust. Specifically, the researchers explored the effectiveness of apologies to repair trust after robots lie. Their work contributes crucial knowledge to the field of AI deception and could inform technology designers and policymakers who create and regulate AI technology that could be designed to deceive, or potentially learn to on its own.",
+        "D5para2":"“All of our prior work has shown that when people find out that robots lied to them — even if the lie was intended to benefit them — they lose trust in the system,” Rogers said. “Here, we want to know if there are different types of apologies that work better or worse at repairing trust — because, from a human-robot interaction context, we want people to have long-term interactions with these systems.” Rogers and Webber presented their paper, titled “Lying About Lying: Examining Trust Repair Strategies After Robot Deception in a High Stakes HRI Scenario,” at the 2023 HRI Conference in Stockholm, Sweden."
+        ,"D6footer":"technology/20 May 2023"
+    ,
+    
+        "E1heading":"Misunderstood – Study Reveals Widespread Confusion Over App Tracking",
+        "E2img":"https://scitechdaily.com/images/Confused-Man-Phone.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1",
+        "E3para":"According to new research from the University of Bath’s School of Management, privacy and security features that are designed to provide consumers with more control over their data sharing by smartphone apps are widely misunderstood.",
+        "E4para1":"In the study, 43% of phone users were found to be unclear or confused about the concept of app tracking. Many participants mistakenly believed that tracking was a necessary part of the app’s functionality or that it would enhance their overall user experience.",
+        "E5para2":"App tracking is used by companies to deliver targeted advertising to smartphone users. When iPhone users first open an app, a pop-up asks whether they want to allow the app company to track their activity across other apps. They can choose either ‘Ask App Not to Track’ or ‘Allow’, as introduced by Apple’s App Tracking Transparency framework in April 2021. Android users must access tracking consent via their phone settings. If people opt out of tracking, their use of apps and websites on their device can no longer be traced by the company, and the data can’t be used for targeted advertising, or shared with data brokers."
+        ,"E6footer":"technology/20 May 2023"
+        
+    ,
+    
+        "F1heading":"Scientists Invent a New Type of Battery – The Oxygen-Ion Battery",
+        "F2img":"https://scitechdaily.com/images/Oxygen-Ion-Battery-2048x1536.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1",
+        "F3para":"Lithium-ion batteries, while commonplace in today’s world – powering everything from electric vehicles to smartphones – aren’t necessarily the optimal solution for all applications. Researchers at TU Wien have made a breakthrough by creating an oxygen-ion battery that offers several significant advantages. While it may not match the energy density of lithium-ion batteries, its storage capacity doesn’t diminish irreversibly over time, making it capable of an exceptionally long lifespan as it can be regenerated.",
+        "F4para1":"Moreover, the fabrication of oxygen-ion batteries doesn’t require scarce elements and involves non-combustible materials. The innovative battery concept has already led to a patent application, filed in collaboration with partners in Spain. These oxygen-ion batteries could provide an outstanding solution for large-scale energy storage systems, such as those required to hold electrical energy from renewable sources.",
+        "F5footer":"technology/20 May 2023"
+
+    }
+
+
+]

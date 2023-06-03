@@ -1,0 +1,65 @@
+/*.box{
+    background-color: white;
+    display: inline;
+    
+}
+.box1{
+    background-color: darkcyan;
+    width:50%;
+    margin-left: 32px;
+    box-shadow: 2px 2px 2px rgb(226, 237, 70);
+    border-radius: 7px;
+    
+    
+}
+.color{
+    background-color: bisque;
+    
+    width: 22%;
+    height:100%;
+    display: inline-block;
+    margin-left: 20px;
+    justify-content: space-around;
+    box-shadow: 3px 2px 4px rgb(4, 77, 122) ;
+    border-radius: 2px;
+    display: grid;
+grid-template-columns: auto auto auto ;
+    
+    
+
+    
+}*/
+
+.look{
+    color: chartreuse;
+    text-decoration: none;
+    
+    
+}
+.link{
+    background-color: darksalmon;
+    width:40%;
+    
+}
+.look1{
+    color:brown;
+    text-decoration: none;
+    margin-left:20px;
+    
+}
+.color{
+    background-color: white;
+}
+.fit{
+    background-color:rgb(218, 252, 253);
+    
+    width: 80%;
+    height:100%;
+    
+    margin-left: 2px;
+    justify-content: space-around;
+    box-shadow: 3px 2px 4px rgb(4, 77, 122) ;
+    border-radius: 2px;
+}
+
+    
