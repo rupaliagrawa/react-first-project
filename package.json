@@ -53,6 +53,7 @@
     "@babel/preset-env": "^7.18.10",
     "@redux-devtools/core": "^3.13.1",
     "babel-loader": "^8.2.5",
+    "gh-pages": "^5.0.0",
     "webpack": "^5.74.0"
   }
 }

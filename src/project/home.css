@@ -201,7 +201,11 @@
  }
  .botton-style:hover{
     
-    box-shadow: 2px 2px 2px rgb(177, 211, 232);
+    /*box-shadow: 2px 2px 2px rgb(177, 211, 232);*/
+    font-size:12px;
+    color:blue;
+    background-image: linear-gradient(white , white);
+    text-decoration: underline;
     
 
    
@@ -210,6 +214,11 @@
     height:100%;
     width:210px;
  }
+
+
+
+
+
  
 
 

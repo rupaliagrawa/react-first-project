@@ -1,7 +1,10 @@
 import  "./home.css"
 import {Link} from "react-router-dom";
+import React from 'react'
+
 //src="https://source.unsplash.com/random/width:300,height:100%/?nature"
 const Home =(props)=>{
+    
     return(
         <>
         
@@ -11,7 +14,7 @@ const Home =(props)=>{
         <div className="grid-container">
             <div className="grid1">
             
-           <Link to="tour-ele-2"> <h1 className="taj-m">{item.heading2}</h1></Link>
+           <Link to="tour-ele-2"> <  h1 className="taj-m">{item.heading2}</h1></Link>
            
             </div>
             <div className="grid" >
@@ -22,6 +25,9 @@ const Home =(props)=>{
             
            
         </div>
+
+        
+
         <h2>The Latest</h2>
        
         <div className="div-cont-2">
@@ -79,8 +85,9 @@ const Home =(props)=>{
             <div className="side-div">
                 <h2>Advertisements</h2>
             </div>
-
-        </div>
+         </div>
+       
+       
         </>
 ))}
         </div>
