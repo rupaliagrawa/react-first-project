@@ -1,5 +1,5 @@
 import "./../project.css";
- import React, { Component } from 'react';
+ 
 import { FaFacebookSquare  } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaWhatsappSquare } from "react-icons/fa";

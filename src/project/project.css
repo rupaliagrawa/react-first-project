@@ -2,8 +2,11 @@
 .inline{
     display: flex;
     height:20%;
+    position:relative;
+   
    
 }
+
 
 .inlinea{
     display: flex;
@@ -109,11 +112,13 @@
 }
 
 .headhome:hover{
-    text-decoration: underline rgba(255, 68, 0, 0.943) ;
+    text-decoration: underline rgba(6, 79, 129, 0.943) ;
 }
 .headhome:active{
-    color:red;
+    color:rgb(96, 142, 206);
 }
+
+
 .new{
     display:flex;
     flex-wrap: wrap;
@@ -132,24 +137,6 @@
     padding:10px;
     text-shadow: 3px 4px 2px  gold;
 }
-/*//font-family: 'Righteous', cursive;
-font-family: 'Bungee Spice', cursive;
-font-family: 'Dancing Script', cursive;
-font-family: 'Londrina Sketch', cursive;
-font-family: 'Moo Lah Lah', cursive;
-font-family: 'Poor Story', cursive;
-font-family: 'Righteous', cursive;
-font-family: 'Rubik Vinyl', cursive;
-flaticon website for icons
-
-font-family: 'Dosis', sans-serif;
-font-family: 'EB Garamond', serif;
-font-family: 'IM Fell Double Pica SC', serif;
-font-family: 'IM Fell Great Primer', serif;
-font-family: 'Lilita One', cursive;
-font-family: 'Playfair Display SC', serif;
-font-family: 'Pompiere', cursive;
-font-family: 'Roboto Condensed', sans-serif;*/
 .main-heading:hover{
 
     
@@ -206,20 +193,117 @@ font-family: 'Roboto Condensed', sans-serif;*/
     
 }
 
+ .toggle-btn {
+    width:1px;
+    height:1px;
+     
+ }
+
+ 
+ .mobile-menu-icon{
+    display: none;
+ }
+ 
+
+ @media screen and (max-width:580px) {
+    .toggle-btn{
+        display:block;
+    }
+    
+    #nav{
+        display:none;
+
+    }
+    #nav.show{
+        display:block
+    }
+    .the-siren{
+        left:15%;
+        font-size:12px;
+        height:30px;
+    }
+    .siran{
+        left:15%;
+        font-size: 29px;
+        top:0px;
+    }
+    .element-container{
+        width:95%;
+        margin:0px;
+    }
+    .share-icon{
+        margin-left: 80px;
+        margin-top:10px;
+    }
+    .para-style{
+        text-align: center;
+    }
+    .fitContainer{
+        width:95%;
+        margin-left:0px;
+        cursor:pointer;
+    }
+   .nav-links-mobile{
+    
+    display:block;
+    list-style: none;
+    box-shadow: rgb(50,50,93,0.23) 0 30px 30px -20px;
+    left:0px;
+    top: 18%;
+    transition:all 0.5 ease-in-out;
+    width:100%;
+    
+    background-color: rgba(8, 176, 176, 0.638);
+    overflow: hidden;
+   }
+    .inline{
+       display: none;
+        
+    }
+    .mobile-menu-icon{
+        display: block;
+        position:absolute;
+        width:30px;
+        right:20px;
+        top:27px;
+        padding:4px;
+        background-color: rgb(16, 17, 18);
+        border-radius: 5px  ;
+        box-shadow: 2px 2px 5px 2px gray;
+        color:white;
+
+    }
+    .headhome{
+        margin:5px;
+        margin-bottom: 2px;
+        margin-top:5px;
+        
+       
+        display: block;
+        transition: all 0.5 ease-in-out;
+        text-align: center;
+  
+    }
+ 
+ }
+@media screen and (max-width:900px) {
+    .headhome{
+        margin:10px;
+      
+        justify-content: space-around;
+        
+        
+  
+    }
+    .inline{
+        
+        margin-left: 10px;
+        justify-content: space-between;
+    }
+}
  
 
 
 
-@media (min-width: 1820) {
-    .img1{
-        margin:0 400px;
-
-    }
-}
-@media (min-width: 1820) {
-    .img1{
-        margin:0 400px;
-    }
-}
 
 

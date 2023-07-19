@@ -113,3 +113,17 @@
   
 
 }
+
+@media screen and (max-width:580px){
+  .tech-heading{
+    font-size: 22px;
+    padding: 2px;
+    height:20px;
+    bottom:23px;
+    
+  }
+  .tech-div{
+    width:95%;
+    margin-left: 1%;
+  }
+}
